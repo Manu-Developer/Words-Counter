@@ -1,2 +1,2 @@
 # Words-Counter
-A Words Counter written in JavaScript
+A Words Counter written in JavaScript.
